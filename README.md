@@ -16,4 +16,23 @@
 </h1>
 
 
+### :man_technologist: About me :
+I'm a brazilian mobile/backend software developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE5NmF0M3RoaGhyeGJqc2V0NnY1d2RuMHg5cmU2aDRsYXloZ245aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S3W74K8gy3h1iI1x0L/giphy.gif" width="30px">
 
+📝- Right now i am studiyng at Fatec Americana, pursuing a technology degree at system analisis and development
+
+🎮- I usually play games at my free time 
+
+💻- My favourite programming language is Kotlin 
+
+📫- The best way to reach me is with Linkedin
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<h1>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"width="60" height="60"/>
+</h1>
