@@ -37,6 +37,7 @@ I'm a brazilian mobile/backend software developer <img src="https://i.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"width="60" height="60"/>
 </h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusFelixz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GusFelixz&theme=dawnfox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
