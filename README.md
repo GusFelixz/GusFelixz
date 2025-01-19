@@ -21,7 +21,7 @@ I'm a brazilian mobile/backend software developer <img src="https://i.giphy.com/
 
 📝- Right now i am studiyng at Fatec Americana, pursuing a technology degree at system analisis and development
 
-🎮- I usually play games at my free time 
+🎮- I usually play games in my free time 
 
 💻- My favourite programming language is Kotlin 
 
