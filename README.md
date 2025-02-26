@@ -36,6 +36,8 @@ I'm a brazilian mobile/backend software developer <img src="https://i.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"width="60" height="60"/>
 </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusFelixz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
